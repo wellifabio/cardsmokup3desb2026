@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Camiseta regata",
+        "descricao": "Camiseta regata masculina",
+        "preco": 38.9,
+        "quantidade": 10,
+        "img":""
+    },
+    {
+        "id": 2,
+        "nome": "Camisa polo",
+        "descricao": "Camisa polo masculina",
+        "preco": 45.9,
+        "quantidade": 5,
+        "img":""
+    },
+    {
+        "id": 3,
+        "nome": "Camiseta regata",
+        "descricao": "Camiseta regata feminina",
+        "preco": 78.9,
+        "quantidade": 20,
+        "img":""
+    },
+    {
+        "id": 4,
+        "nome": "Calsa Jeans",
+        "descricao": "Calsa Jeans masculina",
+        "preco": 66.9,
+        "quantidade": 10,
+        "img":"https://cdn.dooca.store/212/products/4802700173-2_450x600.jpg?v=1712174230&webp=0"
+    },
+    {
+        "id": 5,
+        "nome": "Calça Jeans",
+        "descricao": "Calça Jeans feminina",
+        "preco": 134.9,
+        "quantidade": 10,
+        "img":"https://dzg5mdpaq0k37.cloudfront.net/Custom/Content/Products/51/33/5133_calca-jeans-feminina-cos-alto-revolucionaria-80860_m3_638520460869457731.webp"
+    },
+    {
+        "id": 6,
+        "nome": "Cueca",
+        "descricao": "Cueca box simples",
+        "preco": 14.9,
+        "quantidade": 50,
+        "img":"https://img.irroba.com.br/filters:fill(fff):quality(80)/sergiosc/catalog/produtos-2023/141112023/11010781g-1.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Moletom",
+        "descricao": "Moletom masculina",
+        "preco": 129.9,
+        "quantidade": 10,
+        "img":"https://hiatto.cdn.magazord.com.br/img/2025/05/produto/17556/11m0026-002-blusa-de-moletom-masculino-com-capuz-e-bolso-canguru-liso-hiatto-1.png?ims=630x945"
+    },
+    {
+        "id": 8,
+        "nome": "Moletom",
+        "descricao": "Moletom feminino",
+        "preco": 139.9,
+        "quantidade": 10,
+        "img":"https://hiatto.cdn.magazord.com.br/img/2025/03/produto/15935/11f0096-002-blusa-de-moletom-feminino-capuz-e-bolso-canguru-elegant-preto-hiatto-1.png?ims=630x945"
+    },
+    {
+        "id": 9,
+        "nome": "Saia Jeans",
+        "descricao": "Saia jeans",
+        "preco": 109.9,
+        "quantidade": 20,
+        "img":"https://cdn.awsli.com.br/600x450/2459/2459342/produto/165821892/10--2--bylw4ginkb.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Mini saia",
+        "descricao": "Mini saia",
+        "preco": 159.9,
+        "quantidade": 10,
+        "img":"https://m.media-amazon.com/images/I/41wh9ZPM6NL._AC_SY1000_.jpg"
+    }
+]
